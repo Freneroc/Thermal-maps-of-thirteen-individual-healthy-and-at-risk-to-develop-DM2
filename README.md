@@ -5,3 +5,6 @@ The PDF file show the thermogram of thirteen individuals. The thermal map, obtai
 
 The name of each of the Excel files corresponds to the thirteen individuals, numbered from 01 to 13. The letters “w” and “m” correspond to a woman or man, respectively. The numbers and letter “y”, that follows the letter “w” or “m”, correspond to the age of the individual. The final three numbers correspond to the body max index of the individual (see figure 1).
 
+Table 1. The thirteen individuals.
+#          gender   BMI       Age      Know illness
+1	         W	      23.6	    21	     None
